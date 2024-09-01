@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://sg.linkedin.com/in/anushka-kurup-385a54266" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 100px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 50px;">
 </a>
 
 <p align="left">
