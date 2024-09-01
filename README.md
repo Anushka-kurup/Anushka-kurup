@@ -3,8 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://sg.linkedin.com/in/anushka-kurup-385a54266" target="_blank">
-  <img align="center" src="your-image-source-here" alt="LinkedIn Profile">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Profile" style="width: 100px;">
 </a>
+
 <p align="left">
 </p>
 
