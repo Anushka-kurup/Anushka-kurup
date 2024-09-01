@@ -2,7 +2,9 @@
 <h3>a final year student at SMU pursuing Information Systems</h3>
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://sg.linkedin.com/in/anushka-kurup-385a54266?" target="blank"><img align="center"
+<a href="https://sg.linkedin.com/in/anushka-kurup-385a54266" target="_blank">
+  <img align="center" src="your-image-source-here" alt="LinkedIn Profile">
+</a>
 <p align="left">
 </p>
 
